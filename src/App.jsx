@@ -737,9 +737,9 @@ export default function App() {
             <span className="logo-bracket">/&gt;</span>
           </button>
           <p className="footer__copy">
-            © 2025 Jebali Maher. Tous droits réservés.
+            © 2026 Jebali Maher. Tous droits réservés.
           </p>
-          <p className="footer__love">Made with ❤️ in Tunis</p>
+          <p className="footer__love">Made with ❤️</p>
         </div>
       </footer>
     </>
