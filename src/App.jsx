@@ -678,10 +678,10 @@ export default function App() {
               ))}
 
               <div className="contact__socials">
-                <a href="#" className="social-btn" aria-label="GitHub">
+                <a href="https://github.com/Maher-Jb" className="social-btn" aria-label="GitHub">
                   <Github size={20} />
                 </a>
-                <a href="#" className="social-btn" aria-label="LinkedIn">
+                <a href="https://www.linkedin.com/in/jebali-maher-875767172/" className="social-btn" aria-label="LinkedIn">
                   <Linkedin size={20} />
                 </a>
                 <a
@@ -737,7 +737,7 @@ export default function App() {
             <span className="logo-bracket">/&gt;</span>
           </button>
           <p className="footer__copy">
-            © 2026 Jebali Maher. Tous droits réservés.
+           © {new Date().getFullYear()} Jebali Maher. Tous droits réservés.
           </p>
           <p className="footer__love">Made with ❤️</p>
         </div>
